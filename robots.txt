@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sprtndio.github.io/cv-resume-builder/sitemap.xml
